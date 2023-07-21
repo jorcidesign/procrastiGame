@@ -1,6 +1,6 @@
 {
-	"name": "My first game",
-	"short_name": "My first game",
+	"name": "vaguiSloth",
+	"short_name": "vaguiSloth",
 	"description": "",
 	"start_url": "index.html",
 	"display": "fullscreen",
